@@ -1,7 +1,7 @@
-## **Launch Options**
+### **Launch Options**
 	-novid -noborder -high -threads 4 -freq 144 -refresh 144 +exec autoexec.cfg +mat_vignette_enable 0 -processheap
 
-## **Other Settings**
+### **Other Settings**
 
 Windows Sensitivity: 6/11 <br>
 Enhance Pointer Precision: No <br>
